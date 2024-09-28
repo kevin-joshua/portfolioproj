@@ -22,7 +22,7 @@ import React, { useState, useEffect } from 'react';
   }, []);
    return (
     <>
-    <div className='bg-white py-32'>
+    <div id="skills" className='bg-white py-32'>
       <p className='font-mono lg:text-4xl text-3xl font-bold text-center mb-10'>
         Skills
       </p>

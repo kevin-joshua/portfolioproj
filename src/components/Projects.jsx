@@ -6,7 +6,7 @@ import weatherApp from '../assets/weatherApp.png';
 export const Projects = () => {
   return (
     <>
-      <div className='bg-gray-200 pb-96'>
+      <div id="projects" className='bg-gray-200 pb-96'>
         <div className='flex flex-col items-center py-32'>
           <p className='text-black lg:text-5xl md:text-4xl sm:text-3xl font-mono font-extrabold'>
             Featured Projects

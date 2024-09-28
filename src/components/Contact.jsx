@@ -2,7 +2,7 @@ import React from 'react'
 export const Contact = () => {
   return (
     <>
-    <div className='flex flex-col items-center'>
+    <div id="contact" className='flex flex-col items-center'>
     <p className='lg:text-4xl md:text-3xl font-mono font-bold'>Contact</p><br/>
     <p className='lg:text-xl md:text-lg font-mono font-light'>kevinajijoshua@gmail.com</p><br/>
     </div>

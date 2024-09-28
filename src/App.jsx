@@ -8,7 +8,7 @@ import { Contact } from './components/Contact'
 function App() {
   return (
     <>
-    <Navbar></Navbar>
+    <Navbar ></Navbar>
      <Home></Home>
      <Projects></Projects>
      <Skills></Skills>
